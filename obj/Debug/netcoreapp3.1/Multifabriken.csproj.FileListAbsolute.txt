@@ -1,0 +1,13 @@
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.exe
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.deps.json
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.runtimeconfig.json
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.runtimeconfig.dev.json
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.dll
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\bin\Debug\netcoreapp3.1\Multifabriken.pdb
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.csprojAssemblyReference.cache
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.AssemblyInfo.cs
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.csproj.CoreCompileInputs.cache
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.dll
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.pdb
+C:\Users\axel-\Documents\Code\portfolio\multi-factory-public\obj\Debug\netcoreapp3.1\Multifabriken.genruntimeconfig.cache
